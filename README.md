@@ -46,12 +46,12 @@ Some codes in the SEViT file referred to the following works.\
 Many thanks to the authors of these remarkable works.
 
 ## Authors
-- Yuanchao Su (suych3@xust.edu.cn)
+- Yuanchao Su (suych@um.edu.mo)
 - Lianru Gao (gaolr@aircas.ac.cn)
 - Antonio Plaza 
 - Mengying Jiang 
 - Xu Sun 
 - Guang Yang
 
-## Date
-March 2023
+- This manuscript was completed in December 2023, and the code was completed in April 2023.
+- Its original name was called GSViT.
