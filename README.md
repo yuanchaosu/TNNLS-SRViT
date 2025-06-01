@@ -55,3 +55,5 @@ Many thanks to the authors of these remarkable works.
 
 - This manuscript was completed in December 2023, and the code was completed in April 2023.
 - Its original name was called GSViT.
+
+Yuanchao Su, Lianru Gao, Antonio Plaza, Xu Sun, Mengying Jiang, and Guang Yang. "SRViT: Self-Supervised Relation-Aware Vision Transformer for Hyperspectral Unmixing" IEEE Transactions on Neural Networks and Learning Systems, early access, doi: 10.1109/TNNLS.2025.3571798
